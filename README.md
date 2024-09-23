@@ -1,5 +1,6 @@
 # Video Volume Booster Chrome Extension
 This extension automatically increases the volume of all videos on any webpage.
+Icon: Bharat Icons
 
 ## Installation
 1. Clone or download this repository as a ZIP file.
